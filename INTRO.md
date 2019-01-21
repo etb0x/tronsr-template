@@ -1,13 +1,19 @@
-Our service allow people from other PoW blockchains **to "mine" TRX with their GPUs**.
+Our service allow people from PoW blockchains (Ethereum and others) **to mine TRX with their GPUs**.
 
-That sounds nice but, how does it work? We currently rely in an automated mining-exchange-transfer process to pay TRX miners, but there is a better and more efficient way to get the TRX for mining payments, by producing blocks ourselves and distributing the rewards to every miner in our pool.
+That sounds nice but, how does it work? We've developed an automated mining and exchanging process, when miners join our pool, they are internally mining Ethereum, we take care of everything to deliver TRX to their addresses, automatically, a seamless way for then to switch from Ethereum (or any other dagger hashimoto coin) to TRON!
 
-We have this dream, **to switch every PoW miner to TRON**, we want everyone to enjoy all of the advantages that TRON has, and we need your votes for this!
+We want to simplify things for miners **and be the easiest and most direct way for then to switch to TRON**, and be able to get TRX in real time the same way they would get ETH by mining it!
 
-[Check our website for more info](https://www.tron-mining.com)
+## Let's grow the community!
 
-#### Social
+---
 
-Twitter
-TRON MINING
-@tron_mining
+## Social
+
+Twitter  
+TRON MINING  
+[@tron_mining](https://www.twitter.com/tron_mining)
+
+## Website  
+
+[TRON-MINING.com](https://www.tron-mining.com)
